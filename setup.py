@@ -6,7 +6,7 @@ from setuptools import setup
 VERSION = "0.0.1"
 
 setup(
-    name="TypoPlus",
+    name="typoplus",
     version=VERSION,
     keywords="markdown text typography",
     description="Enhanced typography for Python-Markdown",
